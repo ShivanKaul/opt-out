@@ -5,7 +5,17 @@ Comprehensive list of privacy-protecting settings across apps.
 > Privacy is what gives you the ability to share with the world who you are on your own terms.
 > - Edward Snowden
 
-# Foreword
+## Contents
+- [Foreword](#foreword)
+- [Apps](#apps)
+  - [Twitter](#twitter)
+  - [Snap](#snap)
+  - [Fitbit](#fitbit)
+  - [Google](#google)
+  - [Facebook](#facebook)
+- [Contributing](#contributing)
+
+## Foreword
 
 Apps and web services such as Google / Facebook / Twitter / Snap / Instagram track us 🕵️. This is a well-known fact. While disabling all tracking might be impossible, these companies (sometimes) provide less well-known ways of opting-out of sharing personal data and restricting visibility of personal information. These settings ⚙️ often take the form of <kbd>Send usage data in order to improve ads?</kbd> and are by default opted-in, so most users are not aware of them. 
 
@@ -17,19 +27,21 @@ The best way to learn more about how data about you is collected is to read the 
 
 ㊙️
 
-# Companies 
-## Twitter
+
+## Apps
+
+### Twitter
 [Privacy Policy](https://twitter.com/en/privacy)
-### Web 🌐
+#### Web 🌐
 - Profile and Settings
 - Privacy and Safety
 - Personalization and Data -> Edit
 - Disable all (or choose the ones you want)
 - Save changes
 
-## Snap
+### Snap
 [Privacy Policy](https://www.snap.com/en-US/privacy/privacy-policy/)
-### Android 📱
+#### Android 📱
 - Settings (if you can find it)
 - Manage Preferences
   - Ad Preferences
@@ -37,24 +49,24 @@ The best way to learn more about how data about you is collected is to read the 
   - Maps 
     - Share Usage Data -> uncheck
 
-## Fitbit
+### Fitbit
 [Privacy Policy](https://www.fitbit.com/en-ca/legal/privacy)
-### Android 📱
+#### Android 📱
 - Account
 - Click on your name at the top
 - Privacy Setting
 - Set to Private or Friends (or leave it as Public if you want)
 
-## Google
+### Google
 [Privacy Policy](https://www.google.com/policies/privacy/)
-### Web 🌐
+#### Web 🌐
 - [Control the information that Google uses to show you ads](https://adssettings.google.com/u/0/authenticated)
 - [Control what people see about you](https://aboutme.google.com/)
 - [Privacy check up](https://myaccount.google.com/privacycheckup)
 - [Disable Location History as reported by your mobile device](https://www.google.com/maps/timeline?pb)
 - [View your activity as seen by Google](https://myactivity.google.com/myactivity)
 
-### Android 📱
+#### Android 📱
 - Android Settings
 - Personal > Google
 - Personal info & privacy 
@@ -62,10 +74,11 @@ The best way to learn more about how data about you is collected is to read the 
   - Location Sharing -> disable
   - Activity controls (you can choose which ones you want)
   
-## Facebook
+### Facebook
 [Privacy Policy](https://www.facebook.com/policy.php)
-### Web 🌐
+#### Web 🌐
 - [Ads preferences](https://www.facebook.com/ads/preferences)
 
-# Contributing
+
+## Contributing
 Contributions are always welcome! Feel free to [raise an issue](https://github.com/ShivanKaul/opt-out/issues) or [create a Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/). You can also send me an email at my username.1993 at gmail or tweet at me at [@shivan_kaul](https://twitter.com/shivan_kaul).
