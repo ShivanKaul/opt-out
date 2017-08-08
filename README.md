@@ -23,7 +23,7 @@ This list aims to collate information about all the settings you can disable in 
 
 The oft-touted rationale behind tracking your web activities is to provide you with a better experience, such as by serving you customized ads. You might want that, and it is your choice and trade-off to make. The purpose of this list is to increase awareness about that choice - to let you know the means with which to deliberately exercise it. 
 
-Of course, the true best way to be informed is to read the app's 📜 Privacy Policy.
+Of course, the way to be truly informed is to read the app's 📜 Privacy Policy.
 
 ㊙️
 
