@@ -23,15 +23,14 @@ This list aims to collate information about all the settings ⚙️ you can disa
 
 The oft-touted rationale behind tracking your web activities is to provide you with a better experience, such as by serving you customized ads. You might want that, and it is your choice and trade-off to make. The purpose of this list is to increase awareness about that choice - to let you know the means with which to deliberately exercise it. 
 
-The best way to learn more about how data about you is collected is to read the app's Privacy Policy 📜. A link to each company's privacy policy is included under its section.
+Of course, the true best way to be informed is to read the app's 📜 Privacy Policy.
 
 ㊙️
 
 
 ## Apps
 
-### Twitter
-[Privacy Policy](https://twitter.com/en/privacy)
+### [Twitter](https://twitter.com/en/privacy)
 #### Web 🌐
 - Profile and Settings
 - Privacy and Safety
@@ -39,8 +38,7 @@ The best way to learn more about how data about you is collected is to read the 
 - Disable all (or choose the ones you want)
 - Save changes
 
-### Snap
-[Privacy Policy](https://www.snap.com/en-US/privacy/privacy-policy/)
+### [Snap](https://www.snap.com/en-US/privacy/privacy-policy/)
 #### Android 📱
 - Settings (if you can find it)
 - Manage Preferences
@@ -49,16 +47,14 @@ The best way to learn more about how data about you is collected is to read the 
   - Maps 
     - Share Usage Data -> uncheck
 
-### Fitbit
-[Privacy Policy](https://www.fitbit.com/en-ca/legal/privacy)
+### [Fitbit](https://www.fitbit.com/en-ca/legal/privacy)
 #### Android 📱
 - Account
 - Click on your name at the top
 - Privacy Setting
 - Set to Private or Friends (or leave it as Public if you want)
 
-### Google
-[Privacy Policy](https://www.google.com/policies/privacy/)
+### [Google](https://www.google.com/policies/privacy/)
 #### Web 🌐
 - [Control the information that Google uses to show you ads](https://adssettings.google.com/u/0/authenticated)
 - [Control what people see about you](https://aboutme.google.com/)
@@ -74,8 +70,7 @@ The best way to learn more about how data about you is collected is to read the 
   - Location Sharing -> disable
   - Activity controls (you can choose which ones you want)
   
-### Facebook
-[Privacy Policy](https://www.facebook.com/policy.php)
+### [Facebook](https://www.facebook.com/policy.php)
 #### Web 🌐
 - [Ads preferences](https://www.facebook.com/ads/preferences)
 
