@@ -13,6 +13,8 @@ Comprehensive list of privacy-protecting settings across apps.
   - [Fitbit](#fitbit)
   - [Google](#google)
   - [Facebook](#facebook)
+  - [Amazon](#amazon)
+  - [NAI opt-out tool](#nai-consumer-opt-out-tool)
 - [Contributing](#contributing)
 
 ## Foreword
@@ -65,15 +67,31 @@ Of course, the way to be truly informed is to read the app's 📜 Privacy Policy
 #### Android 📱
 - Android Settings
 - Personal > Google
-- Personal info & privacy 
-  - Shared endorsements -> disable
-  - Location Sharing -> disable
-  - Activity controls (you can choose which ones you want)
+  - Services > Ads
+    - Opt out of Ads Personalization -> enable
+  - Personal info & privacy 
+    - Shared endorsements -> disable
+    - Location Sharing -> disable
+    - Activity controls (you can choose which ones you want)
+#### iOS 📱
+- Settings 
+- Privacy
+- Advertising
+- Limit Ad tracking -> enable
   
 ### [Facebook](https://www.facebook.com/policy.php)
 #### Web 🌐
 - [Ads preferences](https://www.facebook.com/ads/preferences)
 
+### [Amazon](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)
+#### Web 🌐
+- [Personalized ad preferences (per browser)](https://www.amazon.com/adprefs)
+
+### [NAI Consumer Opt Out Tool](http://optout.networkadvertising.org/#!/) 
+#### Web 🌐
+- Network Advertising Initiative is (from their [website](https://www.networkadvertising.org/)) "... a non-profit organization that is the leading self-regulatory association dedicated to responsible data collection and its use for digital advertising". They offer a web-based Opt-Out tool to stop seeing targeted ads from their member companies. Read their [FAQ](https://www.networkadvertising.org/faq/what-are-my-options). However, you might also want to read some [criticism](http://cyberlaw.stanford.edu/blog/2009/04/does-nai%E2%80%99s-opt-out-tool-stop-consumer-tracking).
 
 ## Contributing
-Contributions are always welcome! Feel free to [raise an issue](https://github.com/ShivanKaul/opt-out/issues) or [create a Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/). You can also send me an email at my username.1993 at gmail or tweet at me at [@shivan_kaul](https://twitter.com/shivan_kaul).
+Contributions are always welcome! We're especially looking for privacy settings on iOS.
+
+Feel free to [raise an issue](https://github.com/ShivanKaul/opt-out/issues) or [create a Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/). You can also send me an email at my username.1993 at gmail or tweet at me at [@shivan_kaul](https://twitter.com/shivan_kaul).
