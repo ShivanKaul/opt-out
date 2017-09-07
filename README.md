@@ -94,4 +94,4 @@ Of course, the way to be truly informed is to read the app's 📜 Privacy Policy
 ## Contributing
 Contributions are always welcome! We're especially looking for privacy settings on iOS.
 
-Feel free to [raise an issue](https://github.com/ShivanKaul/opt-out/issues) or [create a Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/). You can also send me an email at my username.1993 at gmail or tweet at me at [@shivan_kaul](https://twitter.com/shivan_kaul).
+Feel free to [raise an issue](https://github.com/ShivanKaul/opt-out/issues) or [create a Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/). You can also send me an email at <my GitHub handle>.1993 at gmail or tweet at me at [@shivan_kaul](https://twitter.com/shivan_kaul).
